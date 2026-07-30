@@ -1,2 +1,8 @@
 # git-github-practice
-This belongs to my learning journey of git and github
+This repository documents my learning journey of git and github
+
+-Created my 2nd repository
+-First professional repository
+-Learned git configuration 
+-cloned repository
+-Opened project in VS code using 'code.'
