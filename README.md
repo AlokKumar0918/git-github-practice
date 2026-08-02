@@ -6,3 +6,5 @@ This repository documents my learning journey of git and github
 -Learned git configuration 
 -cloned repository
 -Opened project in VS code using 'code.'
+-Pushed my first complete project 
+-Learned how to commit and how push the project .
